@@ -12,7 +12,7 @@ The data set we have is raw data with numperous of missing, and unusable values.
 Merged_DataFrame_for_Neural_Network_Model  : 
  ![alt text][Image1]
   
- [Image1]: https://github.com/ttan0408/Cryptocurrencies/blob/main/DataFrame_Clustering_Algorithm.PNG "Merged_DataFrame_for_Neural_Network_Model"
+ [Image1]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Merge_Dataframe.PNG "Merged_DataFrame_for_Neural_Network_Model"
 
 ## Compile, Train, and Evaluate the Model
 
