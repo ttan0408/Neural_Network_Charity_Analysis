@@ -7,6 +7,13 @@ The tool we are using in this analysis is machine learning and neural networks t
 
 ## Preprocessing Data for a Neural Network Model
 
+The data set we have is raw data with numperous of missing, and unusable values. We have to perform a clean up in order to be apply machine learning Neural Network Model for the analysis. After cleaning up we were able to put them into new data frame and are ready for use. Dataframe is shown as below :
+
+Merged_DataFrame_for_Neural_Network_Model  : 
+ ![alt text][Image1]
+  
+ [Image1]: https://github.com/ttan0408/Cryptocurrencies/blob/main/DataFrame_Clustering_Algorithm.PNG "Merged_DataFrame_for_Neural_Network_Model"
+
 ## Compile, Train, and Evaluate the Model
 
 ## Optimize the Model
