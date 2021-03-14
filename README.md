@@ -35,7 +35,7 @@ Model results as shown below :
 Model Results  : 
  ![alt text][Image3]
   
- [Image3]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Summary.PNG "Model Results"
+ [Image3]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/First_Trained_Model.PNG "Model Results"
 
 
 ## Optimize the Model
