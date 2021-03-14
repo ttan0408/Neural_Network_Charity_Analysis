@@ -71,3 +71,6 @@ Optimization Model Results with 77% Accuracy  :
 
 Project files are located in these links below :
 
+https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
+
+
