@@ -16,6 +16,15 @@ Merged_DataFrame_for_Neural_Network_Model  :
 
 ## Compile, Train, and Evaluate the Model
 
+After cleaning/pre-processing data, now we define the model "deep neural network" .The number of input features and hidden nodes for each layer are define as : two hidden layers which includes 80, 30 neuron network accordingly shown below :
+
+hidden_nodes_1 = 80
+hidden_nodes_2 = 30
+ 
+Model using as Sequential and define as shown in the table below :
+
+
+
 ## Optimize the Model
 
 
