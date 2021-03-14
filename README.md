@@ -5,4 +5,10 @@ The objective of this project is helping Bek building the predicted model where 
 
 The tool we are using in this analysis is machine learning and neural networks toghether with CSV data file which containing more than 34,000 organizations that have received funding from Alphabet Soup over the years
 
+## Preprocessing Data for a Neural Network Model
+
+## Compile, Train, and Evaluate the Model
+
+## Optimize the Model
+
 
