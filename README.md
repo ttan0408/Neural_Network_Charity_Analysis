@@ -24,6 +24,7 @@ hidden_nodes_2 = 30
 Model using as Sequential and define as shown in the table below :
 
 Sequential Model Summary  : 
+
  ![alt text][Image2]
   
  [Image2]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Summary.PNG "Sequential Model Summary"
