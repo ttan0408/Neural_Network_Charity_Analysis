@@ -45,6 +45,7 @@ As seen on the first couple trials the model accuracy was very low around 50%. B
 1) Include name columns in Binning process so the number of columns (X values) increase up to 355 columns (previous 55 columns). Name binning process is shown below :
 
 Name Binning  : 
+
  ![alt text][Image4]
   
  [Image4]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Name_Pins.PNG "Name Binning"
@@ -58,9 +59,13 @@ hidden_nodes_3 = 10
 After these two attemps the Sequential Model Summary is shown below with model samples for training :
 
 Model for Optimization  : 
+
  ![alt text][Image5]
   
  [Image5]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Optimizer_Summary.PNG "Model for Optimization"
 
-
+Optimization Model Results   : 
+ ![alt text][Image6]
+  
+ [Image6]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/First_Trained_Model.PNG "Optimization Model Results"
 
