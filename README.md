@@ -60,7 +60,7 @@ After these two attemps the Sequential Model Summary is shown below with model s
 Model for Optimization  : 
  ![alt text][Image5]
   
- [Image5]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Name_Pins.PNG "Model for Optimization"
+ [Image5]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Optimizer_Summary.PNG "Model for Optimization"
 
 
 
