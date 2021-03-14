@@ -64,8 +64,10 @@ Model for Optimization  :
   
  [Image5]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Optimizer_Summary.PNG "Model for Optimization"
 
-Optimization Model Results   : 
+Optimization Model Results with 77% Accuracy  : 
  ![alt text][Image6]
   
- [Image6]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/First_Trained_Model.PNG "Optimization Model Results"
+ [Image6]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Optimization.PNG "Optimization Model Results with 77% Accuracy"
+
+Project files are located in these links below :
 
