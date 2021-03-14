@@ -26,9 +26,16 @@ Model using as Sequential and define as shown in the table below :
 Sequential Model Summary  : 
  ![alt text][Image2]
   
- [Image2]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Merge_Dataframe.PNG "Sequential Model Summary"
+ [Image2]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Summary.PNG "Sequential Model Summary"
 
 
+We compiled model with adam optimizer and trained it with 100 epoch. In this excersice we have 50% accuracy outcome for the model, and we will optimize it in the next trials
+Model results as shown below :
+
+Model Results  : 
+ ![alt text][Image3]
+  
+ [Image3]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Sequential_Model_Summary.PNG "Model Results"
 
 
 ## Optimize the Model
