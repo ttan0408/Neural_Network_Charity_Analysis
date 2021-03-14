@@ -40,5 +40,16 @@ Model Results  :
 
 
 ## Optimize the Model
+As seen on the first couple trials the model accuracy was very low around 50%. Bek wants to improve the accuracy metric to around 75% so we can have more confident on the predict outcomes. At the end we are able to improve the accuracy up to 77%. What we tried are : 
+
+1) Include name columns in Binning process so the number of columns (X values) increase up to 355 columns (previous 55 columns). Name binning process is shown below :
+
+Name Binning  : 
+ ![alt text][Image4]
+  
+ [Image4]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/First_Trained_Model.PNG "Name Binning"
+
+
+
 
 
