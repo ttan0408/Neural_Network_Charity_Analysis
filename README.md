@@ -73,4 +73,6 @@ Project files are located in these links below :
 
 https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
 
+https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
+
 
