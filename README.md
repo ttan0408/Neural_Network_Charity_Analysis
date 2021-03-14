@@ -47,9 +47,20 @@ As seen on the first couple trials the model accuracy was very low around 50%. B
 Name Binning  : 
  ![alt text][Image4]
   
- [Image4]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/First_Trained_Model.PNG "Name Binning"
+ [Image4]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Name_Pins.PNG "Name Binning"
+ 
+2) Increase number of hidden layers for accuracy :
 
+hidden_nodes_1 = 100
+hidden_nodes_2 = 40
+hidden_nodes_3 = 10
 
+After these two attemps the Sequential Model Summary is shown below with model samples for training :
+
+Model for Optimization  : 
+ ![alt text][Image5]
+  
+ [Image5]: https://github.com/ttan0408/Neural_Network_Charity_Analysis/blob/main/Name_Pins.PNG "Model for Optimization"
 
 
 
